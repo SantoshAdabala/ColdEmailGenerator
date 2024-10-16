@@ -1,2 +1,1 @@
-# decentrailized-app
-# decentrailized-app
+# GENAI- Cold EMail Generator
